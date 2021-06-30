@@ -27,7 +27,7 @@
     <div id="fcf-form">
     <h3 class="fcf-h3">Contact us</h3>
 
-    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
+    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.aspx">
         
         <div class="fcf-form-group">
             <label for="Name" class="fcf-label">Your name</label>
@@ -55,7 +55,7 @@
         </div>
 
         <div class="fcf-credit" id="fcf-credit">
-        Simple HTML email form provided by: <a href="https://www.freecontactform.com" target="_blank">FreeContactForm.com</a>
+       
         </div>
 </div>
 <div class="body">
