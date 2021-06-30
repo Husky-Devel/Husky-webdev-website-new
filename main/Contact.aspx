@@ -4,6 +4,7 @@
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
      <link rel="stylesheet" type="text/css" href="CSS/dropdown.css" />
+    <link href="/css/contact-form.css" rel="stylesheet">
     
     <img src="https://raw.githubusercontent.com/Husky-Devel/husky-webdev-website/master/Main/Images/small-logo2.png" />
     
@@ -20,16 +21,6 @@
   </div>
 
 <div class="body">
- <!DOCTYPE html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>contact form</title>
-</head>
-
-<body>
-
-<link href="contact-form.css" rel="stylesheet">
 
 <div class="fcf-body">
 
