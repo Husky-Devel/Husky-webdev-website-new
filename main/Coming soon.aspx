@@ -8,7 +8,7 @@
   </style>
   <a href=https://raw.githubusercontent.com/Husky-Devel/husky-webdev-website/master/Main/Images/small-logo2.png><span id=logo aria-label=Husky-webdev></span></a>
   <p><b>Coming soon</b> 
-<p>The requested Page was not found on this server yet. </p>
+<p>The requested Page was not found on the github repo yet. </p>
 
 <a href="index.aspx">
 	<button>Back</button>
