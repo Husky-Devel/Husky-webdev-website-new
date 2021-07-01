@@ -7,14 +7,14 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-	<link rel="stylesheet" type="text/css" media="all" href="./resources/metro.css">	<script type="text/javascript" src="./resources/jquery-1.3.1.js"></script>
-	<script src="./resources/jquery.min.js"></script>
-	<script src="./resources/jquery.plugins.min.js"></script>
-	<script src="./resources/metro.js"></script>
+	<link rel="stylesheet" type="text/css" media="all" href"http://start.rollestoncollege.nz/resources/metro.css">	<script type="text/javascript" src="http://start.rollestoncollege.nz/resources/jquery-1.3.1.js"></script>
+	<script src="http://start.rollestoncollege.nz/resources/jquery.min.js"></script>
+	<script src="http://start.rollestoncollege.nz/resources/jquery.plugins.min.js"></script>
+	<script src="http://start.rollestoncollege.nz/resources/metro.js"></script>
 	<!--[if lt IE 9]>
 		<script src="js/respond.min.js"></script>
 	<![endif]-->
-	<script src="./resources/jquery.hover.js"></script>
+	<script src="http://start.rollestoncollege.nz/resources/jquery.hover.js"></script>
 
 </head> 
 <body>
