@@ -1,6 +1,9 @@
 <!DOCTYPE html>
+
+# scale to display size
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
+# Css and Logo
 <head>
     <title>Husky-webdev</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
@@ -12,7 +15,9 @@
     
     
   </head>
-<div class="topnav">
+
+  # Top nav
+  <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
         <a href="contact.aspx">Contact</a>
         <a href="http://blog.husky-webdev.codes">blog</a>
@@ -22,7 +27,9 @@
         <a href="mailto:husky@husky-webdev.codes">Email me</a>
   </div>
 
-<div class="body">
+
+# Main content
+  <div class="body">
  Welcome to my website click on one of the links above. Note this website is in Develment!!! Thing's will change!!!!!
 </div>
 <div class="body">
@@ -31,7 +38,7 @@
 <div class="body">
 
     
-  
+# footer (Broken)  
 <footer>
         <nav role="navigation">
 
@@ -44,4 +51,4 @@
      
 </div>
 </body>
-</!DOCTYPE html>
+</ !DOCTYPE html>
