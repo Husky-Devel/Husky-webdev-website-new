@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 
-< !╌#scale to display size ╌>
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-< !╌#CSS and logo ╌>
+ 
 <head>
     <title>Husky-webdev</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
      <link rel="stylesheet" type="text/css" href="CSS/dropdown.css" />
     
-    <img src="https://raw.githubusercontent.com/Husky-Devel/husky-webdev-website/master/Main/Images/small-logo2.png" />
+    <img src="https://raw.githubusercontent.com/Husky-Devel/Husky-webdev-website-new/main/main/Images/small-logo2.png" />
     
     
     
   </head>
 
-  < !╌#Top nav ╌>
+ 
   <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
         <a href="contact.aspx">Contact</a>
@@ -28,7 +28,6 @@
   </div>
 
 
-  <!╌#scale to display size ╌>
   <div class="body">
  Welcome to my website click on one of the links above. Note this website is in Develment!!! Thing's will change!!!!!
 </div>
@@ -38,7 +37,7 @@
 <div class="body">
 
     
-<!╌#Footer (broken) ╌>
+
 <footer>
         <nav role="navigation">
 
