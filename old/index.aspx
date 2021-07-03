@@ -8,7 +8,7 @@
 
   </head>
   <body>
-    <p> This is the old source code and will not be updated <a ref="https://web.husky-webdev.codes/old/main">Follow me to the old code </p>
-    <p>Go here to the main part of the new webdsite<a href="https://web.husky-webdev.codes">new / Main</a>.</p>
+    <p> This is the old source code and will not be updated Got to https://web.husky-webdev.codes/old/main to viwe
+    <p>Go here to the main part of the new webdsite    <a href="https://web.husky-webdev.codes">new / Main</a>.</p>
   </body>
 </html>
