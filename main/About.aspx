@@ -29,7 +29,7 @@
 
 
   <div class="body">
-This website is a combo of stuff im learning/learnd go to my blog for more. <a href="https://blog.husky-webdev.codes">Blog</a>
+This website is a combo of stuff im learning/learnd go to my blog for more. <a href="http://blog.husky-webdev.codes">Blog</a>
 </div>
 <div class="body">
   
