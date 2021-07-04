@@ -10,7 +10,7 @@
     <nav role="navigation">
       <p>
         <a href="index.aspx">
-          <img src="" />
+          <img src="https://raw.githubusercontent.com/Husky-Devel/Husky-webdev-website-new/main/main/Images/small-logo2.png" />
         </a>
       </p>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
