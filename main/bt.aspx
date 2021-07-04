@@ -38,15 +38,17 @@
   firebase.analytics();
 </script>
 
-      <div class="topnav">
+     <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
-        <a href="Contact.aspx">Contact</a>
-        <a href="About-us.aspx">About </a> 
-        <a href="Our-story.aspx">Reference</a> 
-        <a href="Where-are-we.aspx">Where are we?</a>
-        <a href="Indev.aspx">Sign up</a>
-        <a href="Test-hide.aspx">The ambassadors</a>
-        <a href="Store.aspx">Store </a>
+        <a href="contact.aspx">Contact</a>
+        <a href="http://blog.husky-webdev.codes">Blog</a>
+        <a href="About.aspx">About </a> 
+        <a href="https://azureb2chuskywebdev.b2clogin.com/azureb2chuskywebdev.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Husky_webdev&client_id=f322b4f3-38cb-40ca-9395-dd378de8d198&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fweb.husky-webdev.codes%2Fmain&scope=openid&response_type=code&prompt=login">Sign up</a>
+        <a href="https://azureb2chuskywebdev.b2clogin.com/azureb2chuskywebdev.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Husky_webdev&client_id=f322b4f3-38cb-40ca-9395-dd378de8d198&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fweb.husky-webdev.codes%2Fmain&scope=openid&response_type=code&prompt=login">Sign In</a>
+        <a href="mailto:husky@husky-webdev.codes">Email me</a>
+       <a href="bt.aspx">Boot strap website</a>
+       
+  </div>
         <style>
 </style> 
     <link href="https://raw.githubusercontent.com/Husky-Devel/Husky-webdev-website-new/main/old/Main/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
