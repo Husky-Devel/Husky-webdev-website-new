@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Pulls in Css files and displays logo befor nav -->
 <head>
     <title>Husky-webdev</title>
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
@@ -11,7 +12,7 @@
     
   </head>
 
- 
+ <!-- Top Nav  -->
   <div class="topnav">
         <a class="active" href="index.aspx">Home</a>
         <a href="contact.aspx">Contact</a>
@@ -24,7 +25,7 @@
         <a href="mail.aspx">Mail</a>
   </div>
 
-
+<!-- Body / content -->
   <div class="body">
  Welcome to my website click on one of the links above. Note this website is in Develment!!! Thing's will change!!!!!
 </div>
@@ -34,7 +35,7 @@
 <div class="body">
 
     
-
+<!-- Bottem of page -->
 <footer>
         <nav role="navigation">
 
