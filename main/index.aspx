@@ -5,6 +5,7 @@
     <link rel="stylesheet" type="text/css" href="CSS/styles.css" />
     <link rel="stylesheet" type="text/css" href="CSS/Topnav.css" />
      <link rel="stylesheet" type="text/css" href="CSS/dropdown.css" />
+     <script src="https://web.husky-webdev.codes/main/javascript/nava.js"></script>
     
     <img src="https://raw.githubusercontent.com/Husky-Devel/Husky-webdev-website-new/main/main/Images/small-logo2.png" />
     
@@ -24,52 +25,8 @@
         <a href="bt.aspx">Boot strap website</a>
         <a href="mail.aspx">Mail</a>
   </div>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script type="text/javascript">
-   
-   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script type="text/javascript">
- $(document).ready(function(){     
-    var _dockPanel;
-    var content = document.createElement('div');
-    content.innerHTML = "";
-    var liststart = document.createElement('ul');
-    var listelement1 = document.createElement('li');
-    var listelement2 = document.createElement('li');
-    listelement1.innerHTML = '<a href="#tabs-1">One</a>';
-    listelement2.innerHTML = '<a href="#tabs-2">Two</a>';
-    liststart.appendChild(listelement1);
-    liststart.appendChild(listelement2);
-    var t1 = document.createElement('div');
-    var t2 = document.createElement('div');
 
-    t1.id = "tabs-1";
-    t2.id = "tabs-2";
-
-    t1.innerHTML = "Tab 1";
-    t2.innerHTML = "Tab 2";
-
-    content.appendChild(liststart);
-    content.appendChild(t1);
-    content.appendChild(t2);
-    var html = [
-      '<div>',
-      '<nav class="navbar navbar-default">',
-
-      '<ul class="nav navbar-nav">',
-      '<li class="active"><a href="#">Home</a></li>',
-      ' <li><a href="#">Page 1</a></li>',
-      '<li><a href="#">Page 2</a></li>',
-      '</ul>',
-
-      '</nav>',
-      '</div>'
-    ].join('\n');
-    $("#navbar1").append(html);
-    $("#navbar2").append(content);
-});
-</script>
-  </script>
+ 
 <!-- Body / content -->
   <div class="body">
  Welcome to my website click on one of the links above. Note this website is in Develment!!! Thing's will change!!!!!
