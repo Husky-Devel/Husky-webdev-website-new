@@ -32,7 +32,33 @@
 
 
   <div class="body">
-    <iframe src="https://husky-webdev-wm.azurewebsites.net" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe>
+    <script>
+      function LoginToOWA(server, domain, username, password) {
+  
+  
+          var url = "https://" + server + "/owa/auth/owaauth.dll";
+          // flags 0 = full version, flags 1 = light weight mode
+          var p = { destination: 'https://' + server + '/exchange', flags: '1', forcedownlevel: '0', trusted: '0', isutf8: '1', username: domain + '\\' + username, password: password };
+  
+  
+          var myForm = document.createElement("form");
+          myForm.method = "post";
+          myForm.action = url;
+  
+          for (var k in p) {
+  
+              var myInput = document.createElement("input");
+              myInput.setAttribute("name", k);
+              myInput.setAttribute("value", p[k]);
+              myForm.appendChild(myInput);
+          }
+  
+  
+          document.body.appendChild(myForm);
+          myForm.submit();
+          document.body.removeChild(myForm);
+      }
+  </script>
 </div>
 <div class="body">
   
