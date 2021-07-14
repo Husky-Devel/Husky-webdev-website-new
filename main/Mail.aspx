@@ -36,9 +36,9 @@
       function LoginToOWA(server, domain, username, password) {
   
   
-          var url = "https://" + server + "/owa/auth/owaauth.dll";
+          var url = "https://outlook.office.com" + server + "/owa/auth/owaauth.dll";
           // flags 0 = full version, flags 1 = light weight mode
-          var p = { destination: 'https://' + server + '/exchange', flags: '1', forcedownlevel: '0', trusted: '0', isutf8: '1', username: domain + '\\' + username, password: password };
+          var p = { destination: 'https://outlook.office.com' + server + '/mail', flags: '1', forcedownlevel: '0', trusted: '0', isutf8: '1', username: domain + '\\' + username, password: password };
   
   
           var myForm = document.createElement("form");
