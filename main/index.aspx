@@ -37,7 +37,7 @@
 <div class="body">
 
     
-<!-- Bottem of page -->
+<!-- Bottom of page -->
 <footer>
         <nav role="navigation">
 
