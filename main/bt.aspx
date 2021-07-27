@@ -53,7 +53,7 @@
         <style>
 </style> 
     <link href="https://raw.githubusercontent.com/Husky-Devel/Husky-webdev-website-new/main/old/Main/CSS/Wrapper.css" rel="stylesheet" type="text/css" />
-    <iframe src="https://bt.husky-webdev.codes" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe>
+    <iframe src="https://husky-webdev-wp.azurewebsites.net" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="0" marginheight="0px" marginwidth="0px" height="900px" width="1000px" allowfullscreen></iframe>
 </head>
 
 <footer>
