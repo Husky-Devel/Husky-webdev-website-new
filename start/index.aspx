@@ -156,7 +156,7 @@
           </a>
         </div>
         <div class="col-lg-3">
-          <a class="portfolio-item" href="https://petergallwasdev.sharepoint.com/"
+          <a class="portfolio-item" href="https://petergallwasdev.sharepoint.com/" target="_blank">
             <span class="onedrive caption">
               <span class="caption-content">
                 <h5>OneDrive</h5>
@@ -166,6 +166,7 @@
             <img class="img-fluid" src="https://start.westlake.school.nz/img/onedrive_tile.jpg" alt="">
           </a>
         </div>
+         
 
         <!-- new tile start of code -->
         <div class="col-lg-3">
