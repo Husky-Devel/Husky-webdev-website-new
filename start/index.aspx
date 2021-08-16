@@ -252,14 +252,7 @@
         
 
   <!-- Bootstrap core JavaScript -->
-  <script src="https://start.westlake.school.nz/vendor/jquery/jquery.min.js"></script>
-  <script src="https://start.westlake.school.nz/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Plugin JavaScript -->
-  <script src="https://start.westlake.school.nz/vendor/jquery-easing/jquery.easing.min.js"></script>
-
-  <!-- Custom scripts for this template -->
-  <script src="https://start.westlake.school.nz/js/stylish-portfolio.min.js"></script>
 
 </body>
 
