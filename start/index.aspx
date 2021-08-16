@@ -6,11 +6,11 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="WBHS Start Menu">
+  <meta name="description" content="Husky-webdev Start Menu">
   <meta name="author" content="Tim Hardie">
-  <link rel="icon" type="image/png" href="https://start.westlake.school.nz/img/favicons/swan-green.ico">
+  <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/Husky-Devel/Husky-webdev-website-new/main/main/Images/team-improved.bmp">
 
-  <title>Start - WBHS</title>
+  <title>Start - Husky-webdev</title>
 
   <!-- Bootstrap Core CSS -->
   <link href="https://start.westlake.school.nz/vendor/bootstrap/css/bootstrap.min.css rel="stylesheet">
