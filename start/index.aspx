@@ -24,6 +24,58 @@
   <link href="https://start.westlake.school.nz/css/stylish-portfolio.min.css" rel="stylesheet">
 
 </head>
+                                                                                              
+                                                                                                <!-- Navigation -->
+  <a class="menu-toggle rounded" href="#">
+    <i class="fas fa-bars"></i>
+  </a>
+  <nav id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+        <a href="https://www.westlake.school.nz/" target="blank">School Website</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="https://portal.westlake.school.nz/" target="blank">Student/Parent Portal</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="https://portal.office.com/" target="blank">Office 365</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="https://monitor.westlake.school.nz/mymonitor/" target="blank">My Monitor</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="https://westlake.schoolpoint.co.nz/" target="blank">Course Information</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="https://portal.westlake.school.nz/calendar" target="blank">School Calendar</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="https://portal.westlake.school.nz/notices/Daily-Notices.pdf" target="blank">Daily Notices</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="https://westlakeschool.sharepoint.com/sites/class/" target="blank">Classes</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="https://stymie.co.nz/" target="blank">Stymie</a>
+      </li>
+      <li><hr class="menubreak"></li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#websites">Westlake Websites</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#pastoral">Pastoral & Student Services</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#o365">Office 365 Online Apps</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#academic">Academic</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#other">Other Tools</a>
+      </li>
+    </ul>
+  </nav>
 
 
 
